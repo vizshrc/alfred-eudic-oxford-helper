@@ -1,6 +1,6 @@
 # Eudic Helper – Oxford Lookup & Pronunciation
 A powerful Alfred workflow that enhances the Eudic dictionary on macOS by providing ultra-fast **Oxford Advanced Learner_s Dictionary 9th lookup**, **hotkey-based word search**, and **instant American/British pronunciation**.
-
+“This project was created with the help of an AI assistant.”
 Designed for English learners, writers, translators, and anyone who uses **Eudic (欧路词典)** regularly and wants a smooth keyboard-driven workflow.
 
 ---
