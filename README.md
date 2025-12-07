@@ -66,7 +66,7 @@ Designed for English learners, writers, translators, and anyone who uses **Eudic
 | Play BrE pronunciation  | ⌥⌘D           | Reads pronunciation inside Eudic |
 | Keyword lookup          | Alfred Hotkey | Type inside Alfred  `e yourword` |
 
-You can customize all hotkeys inside Alfred.
+You can customize all hotkeys inside Alfred.Please note that on macOS (including Tahoe or any other version), shortcut conflicts are primarily managed within individual applications and System Settings. Since there is no single tool to list all active global shortcuts, you need a systematic approach to find and fix them. For example, the shortcut Option+Command+D (⌥⌘D) conflicts with the system setting for **Turn Dock hiding on/off** (found under System Settings → Keyboard Shortcuts). To resolve this, simply double-click the conflicting shortcut and enter a new, unique key combination, or remove the shortcut entirely if you don't need it.
 
 ---
 
