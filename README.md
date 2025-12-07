@@ -54,7 +54,13 @@ Designed for English learners, writers, translators, and anyone who uses **Eudic
 
    **Note:** Replace the path above with **your real pronunciation audio path**."
 
+6. You can install it using a package manager like Homebrew:
+   `brew install fd`
+
 ---
+
+
+
 
 ## 🧩 Hotkeys (Default)
 
