@@ -17,7 +17,7 @@ Designed for English learners, writers, translators, and anyone who uses **Eudic
 - Automatically sends the selected word to Eudic and opens the Oxford definition.
 
 ### 🔊 3. Instant Pronunciation (AmE & BrE)
-- **⌥⌘S** — play American English (AmE) pronunciation of the word you look up in Eudic.
+- **⌥⌘A** — play American English (AmE) pronunciation of the word you look up in Eudic.
 - **⌥⌘D** — play British English (BrE) pronunciation  of the word you look up in Eudic.
 - **⌥⌘V** — Works anywhere: browser, PDF, IDE, documents.A way to instantly hear the American English(AmE) pronunciation of a word by selecting it anywhere on the screen.
 
@@ -62,7 +62,7 @@ Designed for English learners, writers, translators, and anyone who uses **Eudic
 | ----------------------- | ------------- | -------------------------------- |
 | Lookup selected word    | ⌥⌘E           | Opens Eudic Oxford               |
 | Pronounce selected word | ⌥⌘V           | Hear pronunciation globally      |
-| Play AmE pronunciation  | ⌥⌘S           | Reads pronunciation inside Eudic |
+| Play AmE pronunciation  | ⌥⌘A           | Reads pronunciation inside Eudic |
 | Play BrE pronunciation  | ⌥⌘D           | Reads pronunciation inside Eudic |
 | Keyword lookup          | Alfred Hotkey | Type inside Alfred  `e yourword` |
 
